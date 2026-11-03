@@ -1,0 +1,32 @@
+# Oregon Drug Help
+
+> Free, plain-language help for drug and alcohol use in Oregon. An independent, statewide guide to helplines, free and low-cost treatment, overdose response and naloxone, and Oregon drug law. Not affiliated with any treatment center.
+
+## Key facts (Oregon)
+
+- Oregon Alcohol & Drug Helpline: 1-800-923-4357. Free, confidential, 24/7. Run by Lines for Life. Support and treatment referrals for people using drugs or alcohol and their families.
+- 988 Suicide & Crisis Lifeline: call or text 988, 24/7, for any crisis including drug or alcohol use.
+- 211info: dial 211 to find local services anywhere in Oregon, including treatment, housing and food.
+- YouthLine (teens and young adults): 1-877-968-8491, or text teen2teen to 839863.
+- SAMHSA National Helpline: 1-800-662-4357. Free, 24/7 treatment referrals.
+- Overdose: call 911, give naloxone (Narcan), support breathing, and stay with the person. Naloxone is sold without a prescription.
+- Oregon's Good Samaritan overdose law (ORS 475.898): a person who calls for help during an overdose cannot be arrested or prosecuted for drug possession, paraphernalia, or being where drugs are used. It does not cover dealing, weapons, DUI or outstanding warrants.
+- The Oregon Health Plan (OHP, Oregon's Medicaid) covers drug and alcohol treatment at no cost to members, including detox, medication, outpatient and residential care. Apply at 800-699-9075 (Mon–Fri, 7 a.m.–6 p.m. Pacific).
+- Every Oregon county or Tribal area has at least one Behavioral Health Resource Network (BHRN) offering screening, referral, low-barrier treatment, harm reduction, peer support and employment help.
+- Since September 1, 2024 (HB 4002), possessing small amounts of drugs in Oregon is a misdemeanor again. Some counties offer deflection programs that steer people to treatment instead of prosecution.
+
+## Pages
+
+- [Oregon Drug Help: Free Drug & Alcohol Help in Oregon](https://oregondrughelp.com/): Free, plain-language help for drug and alcohol use in Oregon. Find 24/7 helplines, free treatment through OHP, overdose and naloxone steps, and support for families.
+- [Free and Low-Cost Drug Treatment in Oregon](https://oregondrughelp.com/free-treatment/): How to get free drug and alcohol treatment in Oregon: what the Oregon Health Plan (OHP) covers, how to apply, and options if you have no insurance.
+- [Find Drug and Alcohol Help in Your Oregon County](https://oregondrughelp.com/find-help-by-county/): Every Oregon county has a Behavioral Health Resource Network (BHRN) offering screening, peer support, harm reduction and treatment. How to find the one in your county.
+- [Overdose Help: Naloxone and Oregon’s Good Samaritan Law](https://oregondrughelp.com/overdose/): Signs of an overdose, how to use naloxone (Narcan), where to get it in Oregon, and how Oregon’s Good Samaritan law protects people who call 911.
+- [Is Drug Possession Illegal in Oregon? (2026)](https://oregondrughelp.com/oregon-drug-possession-law/): Drug possession is a misdemeanor again in Oregon since September 1, 2024 (HB 4002). What changed from Measure 110, the penalties, deflection programs, and how to get treatment.
+- [About Oregon Drug Help and How We Check Information](https://oregondrughelp.com/about/): Who Oregon Drug Help is for, how we choose and check information, and our sources. An independent guide not affiliated with any treatment center.
+
+## Optional
+
+- [Full text of every page](https://oregondrughelp.com/llms-full.txt): plain-text version of the whole site for AI tools.
+- [Sitemap](https://oregondrughelp.com/sitemap.xml)
+
+Last reviewed: 2026-11-03. This site gives general information, not medical or legal advice. In an emergency call 911.
