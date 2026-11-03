@@ -26,7 +26,6 @@ NAV = [
     ("/free-treatment/", "Free treatment"),
     ("/find-help-by-county/", "Help by county"),
     ("/overdose/", "Overdose & naloxone"),
-    ("/oregon-drug-possession-law/", "Oregon drug law"),
     ("/about/", "About"),
 ]
 
@@ -398,7 +397,7 @@ def main():
         f"# {NAME}",
         "",
         f"> {TAGLINE} An independent, statewide guide to helplines, free and low-cost treatment, "
-        "overdose response and naloxone, and Oregon drug law. Not affiliated with any treatment center.",
+        "overdose response and naloxone, and help in every county. Not affiliated with any treatment center.",
         "",
         "## Key facts (Oregon)",
         "",
